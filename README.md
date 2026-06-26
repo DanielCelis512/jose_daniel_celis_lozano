@@ -8,14 +8,14 @@ Data Analyst | Software Developer | AI Enthusiast
 
 Currently working on:
 
-🎾 Tennis Analytics
+Tennis Analytics
 
-📊 Data Science
+Data Science
 
-🤖 Artificial Intelligence
+Artificial Intelligence
 
-⚙️ C++
+C++
 
-🐍 Python
+Python
 
-☁️ Oracle Cloud
+Oracle Cloud
